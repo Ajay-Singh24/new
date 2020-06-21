@@ -14,5 +14,4 @@ void loop() {
     digitalWrite(D2,LOW);
     }  
   delay(500);
-}aaaaaaaaaaaaaaalllllllllllllllll
-lloooppppppuuuuuzzzzz
+}
